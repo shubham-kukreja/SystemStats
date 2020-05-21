@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "system-monitor-18d0c",
-  "private_key_id": "dc145e6a6f5e638adf6b5c6e6877671346863507",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC2/gJYZ/byfcsV\nCEDs7986a5sjS3kblb9DU+INKGtMdSSeETPDBxzfmbUseGDA6Q/ZHyJ9tVe4nx9t\nf3N69LF3uRschR6ZKeEmiKEx6c+AbSgiADqVI8xTdO5GO/uQ+6k8pqWFrPTz0omQ\nZGfV1R00YT+masszc/NkY6jF5qRICr28nI94HCku5yN5Ejm7dpA4AGo6BjOgOFjy\nYf5zbRcjqnvEQIiy9V2okLCrL1QJ4FCClsafaFNysfiGVrHjhIipWXIWjKOFo/Ei\naM/s644l7aOOtgrQr/11xM/k8OUQr8StRIOyJgmiQw75TzAG7PW2HamFNvuhM1h1\nPY0Rp81pAgMBAAECggEAGXmAExWaE8T+VhW5kCKOlX/wb3fsyrHMmA9f60wCr/io\n2dZ0OcTOOLSZu7Cga4qmeafzccOijCGeyuwQw/+3iv66bvx7N4BUhzxDEINHr03C\n5gTZIvUCV2XyW9Wy3kqikz5x0Yuz6BOZsf/AUszhzW5yYXUBh86vBf03vCExIpQb\nrmHF4RWEA+8pQAQBFrJEtthGbmwWuBxdLDsLToK1+Ed8qwDq/kcy4HzxPzlNbUUn\niXGTVOQC/G3fEVa55ty5LcRktQw6O7WDiXSC9+TLMOCHyB41vhZiNMCQ5CnAgBZA\n7Qj1B3mw6WA4qnSM6QYuCLhDVfCOWkWNg3IWefgqZwKBgQDuQ9axkaICsJikr7u2\n8lx0bwRVXQnFWO3lXWXRxKuwmETaaH6naDdTVq9SpaMfY7OH+tyrHpk8WOD2VRQY\nLb67gSSyRtBkpzIURCj1MfzDGOkmIm6SM52uVfWiSzBIbwfNqnFX8L+wxRIQN+Ob\nTh9msKKpmn5004IDTzivTMABlwKBgQDEnPFZ/z4WH0OzhOhuT4Kz1fn7uwFr37Fz\nGjDlqamFxmELSG+fvVwRCOq7hmUkin328Ax31WX/R7KUBnmwNhIfMGIi1bMlfbBi\n4XmTI6g8RAkr4M9lE2ws1PQEH1M+5050fA8P2i8hH0R+ySFo4IEmujeAT6Ae54KQ\nSKQ3xKKI/wKBgQCaTv0gizztmQmCvv1Hgrc2ASBBWLwXP3zy6wYiUMkQ2czd1ocQ\nTIJoSt/JGtUGYz/GdUWs3WhImRc48ejNr/Ky5PSrMQmN5mqcjXgpNHKKt/tnYy1R\nKnSYj7tBnIhsoNvg6t31IkpDZZ5JOqkB0BquGv998Dyt1L2C/y+q+H3xiQKBgQC3\nKG0+JaU0/pMXHW1ZtgBQf7mNZDyCvbSVQYTjrhYaZR/qXuR9ru2hgOkLILwAOnP2\nItG6oLWQBr65Xv7lxLlFDNGfGez1tA0pUFrtU35aBhd1JMyPoHRZn1hirrviEaDo\nqtltLxhQhsxMQBo7lUk7RqaFhafookrjFojE2w1/CQKBgQDJlOBamNNs8Uc/hhMG\nuxRDcS3ndvmTa+lBFv+4Rti11ZONAJyUC6zVq4ooFR8AzAhloEg7NWiawB7KWLKj\n4OIoIhiBxc+53Vdtn0bGGlsQEbkRB40XQOlsBheO62Xb8HiOke/z7wZuB2wgq21d\n4JZ8SMDgcmLBL10qBWA39kRStw==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "Enter Your Own Private KEY",
+  "private_key": "-----BEGIN PRIVATE KEY-----\-----END PRIVATE KEY-----\n",
   "client_email": "firebase-adminsdk-z5yaq@system-monitor-18d0c.iam.gserviceaccount.com",
-  "client_id": "105615470354921566271",
+  "client_id": "**********************",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
