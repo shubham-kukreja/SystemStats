@@ -13,7 +13,7 @@
   "author": "Shubham<skukreja434@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "6.0.10",
+    "electron": "9.4.0",
     "electron-builder": "^21.2.0",
     "electron-packager": "^14.0.6"
   },
